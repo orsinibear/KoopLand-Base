@@ -1,6 +1,8 @@
 # KoopLand - AI-Verified Idea Marketplace
 
 **Live Demo:** [https://koopland.vercel.app/](https://koopland.vercel.app/)
+
+
 **Deployed COntract On Base:** 0x53fffbff24c64d052d18dc248b7d2220495dc2dc
 
 ## Overview
